@@ -3,8 +3,10 @@ Title: Code for Clustering Irregular Time Series Data
 Version: 0.0.0.9000
 Authors@R: 
     person("Eric", "Newkirk", , "ericnewkirk@gmail.com", role = c("aut", "cre"))
-Description: Code for clustering irregular time series data
-License: MIT
+Description: Code for clustering irregular time series data.
+License: file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
+Suggests: 
+    dplyr
